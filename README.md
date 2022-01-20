@@ -8,12 +8,12 @@
 
 Enviroment 
 ---
-개발 환경  
+*개발 환경*  
 OS : Windows 10  
 Editor : VS Code  
 Game Engine : Unity (version : 2019.4.34f1)  
   
-실행 환경 : PC
+*실행 환경* : PC
 
 Usage
 ---
@@ -25,7 +25,7 @@ OSSW_proj/playing/눈사람은눈덩이.exe
 
 https://user-images.githubusercontent.com/60428026/150271043-9ab12770-5cbe-47b5-89bb-9f4d16d7ee75.mp4
 
-
+  
 외부 리소스 정보
 ---
 해상도 고정 : https://giseung.tistory.com/19  
