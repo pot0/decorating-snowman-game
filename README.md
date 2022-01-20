@@ -18,12 +18,11 @@
   OSSW_proj\playing\눈사람은눈덩이.exe 를 install하시면 게임을 실행할 수 있습니다.  
     
 ### 화면구성
-  + StartScene
-  + InGame
-    + Helping
-    + Gaming
-  + Gaming
-  + BeforeRestart  
+  + StartScene : 첫 화면
+  + InGame : 게임이 시작되기 전 화면
+    + Helping : 간단한 게임 설명
+  + Gaming : 게임 진행
+  + BeforeRestart : 눈사람을 꾸미는 화면, 다시 시작하기 전 화면 
 
 ## 시연영상
 
