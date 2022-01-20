@@ -26,13 +26,10 @@ OSSW_proj/playing/눈사람은눈덩이.exe
 https://user-images.githubusercontent.com/60428026/150271043-9ab12770-5cbe-47b5-89bb-9f4d16d7ee75.mp4
 
 
-
-License
----
-font
-
-
 외부 리소스 정보
 ---
-
+해상도 고정 : https://whal.eu/l/bnNRQm2n
+오브젝트 Drag&Drop : https://whal.eu/l/oE6NLaPE
+DontDestroOnLoad : https://whal.eu/l/B7GZVmLp
+Randon Spawn & Instantiate Destroy : https://whal.eu/l/NE8mxAgp
 
