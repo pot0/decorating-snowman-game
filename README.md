@@ -32,6 +32,9 @@
 표정2  
 <img src="https://user-images.githubusercontent.com/60428026/150317704-4769cb9a-d971-4081-b2dc-903f38ec71ce.png" width="50" height="50"/>   
 목도리 아이템  
+
+---
+
 *획득해야하는 아이템*  
 <img src="https://user-images.githubusercontent.com/60428026/150317714-2a8f5deb-1ca5-463d-9e23-787051dab70c.png" width="50" height="50"/>   
 모자 아이템  
