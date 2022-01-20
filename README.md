@@ -17,10 +17,10 @@ Game Engine : Unity (version : 2019.4.34f1)
 
 Usage
 ---
-실행파일 사용  
-playing/눈사람은눈덩이.exe  
+실행파일 위치  
+OSSW_proj/playing/눈사람은눈덩이.exe  
 
-실행모습
+시연영상
 ---
 
 https://user-images.githubusercontent.com/60428026/150271043-9ab12770-5cbe-47b5-89bb-9f4d16d7ee75.mp4
@@ -29,6 +29,8 @@ https://user-images.githubusercontent.com/60428026/150271043-9ab12770-5cbe-47b5-
 
 License
 ---
+font
+
 
 외부 리소스 정보
 ---
