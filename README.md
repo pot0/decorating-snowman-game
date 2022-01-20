@@ -28,8 +28,10 @@ https://user-images.githubusercontent.com/60428026/150271043-9ab12770-5cbe-47b5-
 
 외부 리소스 정보
 ---
-해상도 고정 : https://whal.eu/l/bnNRQm2n
-오브젝트 Drag&Drop : https://whal.eu/l/oE6NLaPE
-DontDestroOnLoad : https://whal.eu/l/B7GZVmLp
-Randon Spawn & Instantiate Destroy : https://whal.eu/l/NE8mxAgp
+해상도 고정 : https://giseung.tistory.com/19
+오브젝트 Drag&Drop : https://youtu.be/Tv82HIvKcZQ
+DontDestroOnLoad : https://foxtrotin.tistory.com/119
+Randon Spawn & Instantiate Destroy : https://ncube-studio.tistory.com/entry/%EB%9E%9C%EB%8D%A4-%EC%83%9D%EC%84%B1-%EB%9E%9C%EB%8D%A4-%EC%8A%A4%ED%8F%B0-%ED%94%84%EB%A6%AC%ED%8C%B9-%EC%83%9D%EC%84%B1%EA%B3%BC-%EC%B6%A9%EB%8F%8C%EC%8B%9C-%ED%8C%8C%EA%B4%B4-Unity-CScript-Random-Spawn-Instantiate-Destroy-OnTriggerEnter2D
+
+
 
