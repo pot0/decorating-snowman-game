@@ -1,6 +1,6 @@
 # decorating-snowman-game
 
-🎁눈사람은-눈덩이 ☃
+# 🎁눈사람은-눈덩이 ☃
 ---
 눈사람은 눈덩이 게임입니다.
 
@@ -17,7 +17,14 @@ Game Engine : Unity (version : 2019.4.34f1)
 
 Usage
 ---
-playing/눈사람은눈덩이.exe 
+실행파일 사용  
+playing/눈사람은눈덩이.exe  
+
+실행모습
+---
+
+https://user-images.githubusercontent.com/60428026/150271043-9ab12770-5cbe-47b5-89bb-9f4d16d7ee75.mp4
+
 
 
 License
