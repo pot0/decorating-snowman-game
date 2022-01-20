@@ -15,7 +15,7 @@ Game Engine : Unity (version : 2019.4.34f1)
 
 # Usage
 실행파일 위치  
-OSSW_proj/playing/눈사람은눈덩이.exe  
+OSSW_proj/playing/눈사람은눈덩이.exe 를 install하시면 게임을 실행할 수 있습니다.  
 
 # 시연영상
 
