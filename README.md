@@ -17,4 +17,13 @@ Game Engine : Unity (version : 2019.4.34f1)
 
 Usage
 ---
-Playing 
+playing/눈사람은눈덩이.exe 
+
+
+License
+---
+
+외부 리소스 정보
+---
+
+
