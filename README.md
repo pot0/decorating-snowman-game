@@ -15,7 +15,7 @@
   PC
 
 ## __Usage__
-  OSSW_proj\playing\눈사람은눈덩이.exe 를 install하시면 게임을 실행할 수 있습니다.  
+  **OSSW_proj\playing\눈사람은눈덩이.exe** 를 install하시면 게임을 실행할 수 있습니다.  
     
 ### __화면구성__
   + StartScene : 첫 화면
