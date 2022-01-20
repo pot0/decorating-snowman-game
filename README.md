@@ -17,7 +17,7 @@
 ## Usage
   OSSW_proj\playing\눈사람은눈덩이.exe 를 install하시면 게임을 실행할 수 있습니다.  
     
-###화면구성
+### 화면구성
   + StartScene
   + InGame
     + Helping
