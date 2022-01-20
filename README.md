@@ -24,7 +24,7 @@
   + Gaming : 게임 진행
   + BeforeRestart : 눈사람을 꾸미는 화면, 다시 시작하기 전 화면 
 
-### __item__
+### __Item__
 - *기본으로 주어지는 아이템*  
 <img src="https://user-images.githubusercontent.com/60428026/150317708-4fed838d-4ea3-4302-9497-8c63e7932640.png" width="50" height="50"/>
 표정1  
