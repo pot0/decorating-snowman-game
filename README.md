@@ -11,7 +11,8 @@ OS : Windows 10
 Editor : VS Code  
 Game Engine : Unity (version : 2019.4.34f1)  
   
-*실행 환경* : PC
+*실행 환경*
+  PC
 
 # Usage
   OSSW_proj/playing/눈사람은눈덩이.exe 를 install하시면 게임을 실행할 수 있습니다.  
