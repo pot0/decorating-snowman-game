@@ -1024,10 +1024,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1319500055}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9261a287f93996f4b8857b070c38a7d4, type: 3}
+  m_Script: {fileID: 11500000, guid: 24d600ad8d719a44ca6614c76ba77874, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 5
   rigid: {fileID: 1319500057}
 --- !u!212 &1319500059
 SpriteRenderer:

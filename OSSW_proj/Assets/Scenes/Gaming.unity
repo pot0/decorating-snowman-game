@@ -283,7 +283,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ITEMcollision: 00000000
-  speed: 5
+  speed: 6
   rigid: {fileID: 219298257}
 --- !u!212 &219298259
 SpriteRenderer:

@@ -6,7 +6,7 @@ public class movesnow : MonoBehaviour
     ItemDrop Item;
     lifescore life;
     public bool[] ITEMcollision = new bool[4]; //눈사람에 item이 닿았는가를 체크
-    public float speed;
+    public float speed = 6;
     public Rigidbody2D rigid;
     private void Awake() {
         rigid = GetComponent<Rigidbody2D>();    
