@@ -9,10 +9,10 @@
 Enviroment 
 ---
 개발 환경
-OS : Windows 10
-Editor : VS Code
-Game Engine : Unity (version : 2019.4.34f1)
-
+OS : Windows 10  
+Editor : VS Code  
+Game Engine : Unity (version : 2019.4.34f1)  
+  
 실행 환경 : PC
 
 Usage
