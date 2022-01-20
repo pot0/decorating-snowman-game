@@ -26,7 +26,7 @@
 
 ### __item__
 *기본으로 주어지는 아이템*  
-![smiley](https://user-images.githubusercontent.com/60428026/150317708-4fed838d-4ea3-4302-9497-8c63e7932640.png)  
+<img src="https://user-images.githubusercontent.com/60428026/150317708-4fed838d-4ea3-4302-9497-8c63e7932640.png" width="200" height="400"/>
 표정1  
 ![wink](https://user-images.githubusercontent.com/60428026/150317711-840dd751-d293-429d-9850-64797901a5e3.png)  
 표정2  
