@@ -20,7 +20,8 @@ Game Engine : Unity (version : 2019.4.34f1)
 
 https://user-images.githubusercontent.com/60428026/150271043-9ab12770-5cbe-47b5-89bb-9f4d16d7ee75.mp4
 
-  
+
+
 # 외부 리소스 정보
 해상도 고정 : https://giseung.tistory.com/19  
 Object Drag&Drop : https://youtu.be/Tv82HIvKcZQ  
